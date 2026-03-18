@@ -1,0 +1,1 @@
+import{S as e,A as t,P as a,N as n}from"./autoplay.CLa3uDpJ.js";document.addEventListener("astro:page-load",()=>{new e(".banner-slider",{modules:[t,a,n],loop:!0,centeredSlides:!0,slidesPerView:1,navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}})});
